@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "rumah modern minimalis di Bogor",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "ini adalah website resmi Rumah modern minimalis di bogor yang pembayaran nya sesui dengan sistem syariah islami, yang di kelola langsung ole asosiasi developer property syariah.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
